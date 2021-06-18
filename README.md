@@ -1,1 +1,0 @@
-# MAD-TermProject-GoogleFirebase
